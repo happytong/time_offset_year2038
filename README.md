@@ -1,0 +1,1 @@
+The Year 2038 problem affects systems using 32-bit signed integers to store Unix timestamps (seconds since January 1, 1970, 00:00:00 UTC). I provided a time-offset solution with just one header file to replace existing APIs, with a .c file demostrating the usage. Details you may refer to https://a5w1h.blogspot.com/2026/01/time-offset-solution-to-year-2038.html
